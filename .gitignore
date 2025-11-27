@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Environments
+.env
+.venv/
+dataenv/
+venv/
+env/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model artifacts
+artifacts/
+model/
+*.sav
+*.h5
+
+# Docker
+*.tar
